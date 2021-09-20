@@ -6,7 +6,6 @@ title: Test Title
 excerpt: Test Excerpt
 date: 2021-09-20T07:00:00+00:00
 hero: "/images/ap_creative_stock_header.jpg"
-draft: true
 
 ---
 Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
