@@ -7,7 +7,7 @@ avatar: "/images/thumbnail_img_2509.jpg"
 featured: true
 social:
 - title: twitter
-  url: https://twitter.com/TractorFinance
+  url: https://twitter.com/dynamicaljon
 - title: unsplash
   url: https://unsplash.com
 draft: true
