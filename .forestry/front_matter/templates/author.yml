@@ -44,4 +44,5 @@ fields:
   label: Featured Author
   description: Feature this author on the home page
 pages:
+- content/authors/jon-x/jon.md
 - content/authors/jon.md
