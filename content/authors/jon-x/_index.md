@@ -10,6 +10,5 @@ social:
   url: https://twitter.com/dynamicaljon
 - title: unsplash
   url: https://unsplash.com
-draft: true
 
 ---
